@@ -14,4 +14,4 @@ The application will be exposed in the 8080 port.
 
 Perform a GET request: `http://localhost:8080/api/{userEmail}` to get user permission. 
 
-You will receive the data in the following format: <IdCondominium>;[(<Functionality>,<Permission>),...]
+You will receive the data in the following format: ` <IdCondominium>;[(<Functionality>,<Permission>), ...] `
